@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: Anton;
+    color: rgb(238, 247, 247);
+    font-size:xx-large;
+}
+
+p{
+    font-family: Dancing Script;
+    color: blanchedalmond;
+font-size:x-large;
+}
+
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.poster{
+    width: 40%;
+    height: 40%;
+    margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
